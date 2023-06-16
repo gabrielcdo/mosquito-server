@@ -1,0 +1,2 @@
+docker build -t your_image_name .
+docker run --network host your_image_name
